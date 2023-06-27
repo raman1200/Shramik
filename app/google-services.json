@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097654854504",
+    "project_id": "shramik-app-ccbde",
+    "storage_bucket": "shramik-app-ccbde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097654854504:android:22835ccd494bd2d4352cdd",
+        "android_client_info": {
+          "package_name": "com.majdoor.ovr.shramik.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097654854504-n798gjl4g6als950goc4267je4tmvk5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ZCt1UESMYbKBl6bXl7jpWY_1kXwrZa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097654854504-n798gjl4g6als950goc4267je4tmvk5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
