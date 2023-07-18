@@ -39,4 +39,8 @@
     <color name="white_A700">#ffffff</color>
     <color name="indigo_A100_cc">#cc8e85f9</color>
 
+    <color name="teal_50">#e0e8ed</color>
+    <color name="blue_A100">#7bbae8</color>
+    <color name="grey_600">#74727d</color>
+
 </resources>

@@ -27,9 +27,9 @@
             android:maxWidth="300dp"
             android:minWidth="30dp"
             android:text="Message "
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:textSize="16sp"
-             />
+            />
 
         <TextView
             android:id="@+id/time"
@@ -38,7 +38,7 @@
             android:text="1:00 pm"
             android:textSize="14sp"
             android:layout_gravity="right"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
