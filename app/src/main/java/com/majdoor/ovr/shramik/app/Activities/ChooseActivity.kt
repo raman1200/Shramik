@@ -47,7 +47,6 @@ class ChooseActivity : AppCompatActivity() {
         binding.worker.setOnClickListener {
             binding.worker.setBackgroundResource(R.drawable.selected_border)
             binding.builder.setBackgroundResource(R.drawable.border)
-            binding.next
             appliedFor = "Worker"
             markButtonEnable(binding.next)
         }
